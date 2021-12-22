@@ -28,8 +28,8 @@ Venice is built on a group of 118 small islands that are separated by canals and
 ├── Bridges_simple.gh: Basic bridge generator script
 ├── Muti_stairs.gh: Bridge generator with Multi-level stairs
 ├── round_stair_with_long_edges.gh: Bridge generator with round stairs
-├── round_stairs_with_railings.gh: Bridge generator with round stairs and railings in different angles
-├── bridges_stairs_angles.gh: Bridge generator with round stairs and railings in different angles
+├── round_stairs_with_railings.gh: Bridge generator with round stairs and railings in different direction
+├── Stair_different_direction.gh.gh: Bridge generator with round stairs and railings in different direction
 ├── bridges_description.json: JSON file contains only text description data
 ├── bridges_all.json & bridges_all.csv file contains only all data and parameters
 ├── README.md
